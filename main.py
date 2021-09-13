@@ -1,3 +1,7 @@
+# made by Emry_sode.exe
+
+#Python versio: 3.6.8
+
 from tkinter import *
 from time import sleep
 from sympy import solvers
